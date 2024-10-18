@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: aa598
+Version: 0.0.1
+Summary: virtual environment for aa598 homework
+Author: Karen Leung
+Author-email: kymleung@uw.edu
+Requires-Dist: jax
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: ipywidgets
+Requires-Dist: ipykernel

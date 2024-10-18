@@ -1,0 +1,6 @@
+jax
+matplotlib
+numpy
+torch
+ipywidgets
+ipykernel

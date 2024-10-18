@@ -1,0 +1,8 @@
+README.md
+setup.py
+aa598/hw1_helper.py
+aa598.egg-info/PKG-INFO
+aa598.egg-info/SOURCES.txt
+aa598.egg-info/dependency_links.txt
+aa598.egg-info/requires.txt
+aa598.egg-info/top_level.txt
